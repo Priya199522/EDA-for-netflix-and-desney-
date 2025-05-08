@@ -1,8 +1,12 @@
 # EDA-for-netflix-and-desney-
+• Collected and merged content datasets for Netflix and Disney+ from online sources, followed by thorough data cleaning and preprocessing.
 
-• The dataset is collected from web.
-• The data was cleaned and processed and analysed before EDA.
-• Data visualization done using seaborn and matplotlib.
-• Found out that Netflix has more content in non US countries.
-• Both platforms have similar ration of movies and TV shows
-• Netflix relies on movies and Disney+ on family content.
+• Performed Exploratory Data Analysis (EDA) to understand content distribution, trends, and platform differences using seaborn and matplotlib for data visualization.
+
+• Key findings:
+
+• Netflix hosts more content outside the US compared to Disney+.
+
+• Both platforms maintain a similar ratio of movies to TV shows.
+
+• Netflix focuses heavily on movie content, while Disney+ emphasizes family-oriented programming.
